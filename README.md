@@ -24,4 +24,4 @@ I thrive on solving complex security challenges and staying up-to-date with the 
 Feel free to reach out to me:
 
 - 📧 Email: aderse246@gmail.com
-- 🌐 Web: www.adarshsr.carrd.co
+- 🌐 [Web](https://adarshsr.carrd.co/)
