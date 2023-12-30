@@ -30,5 +30,5 @@ I thrive on solving complex security challenges and staying up-to-date with the 
 Feel free to reach out to me:
 
 - [LinkedIn](https://www.linkedin.com/in/adarsh-sr/)
-- 📧 Email: aderse246@gmail.com
 - 🌐 [Web](https://adarshsr.carrd.co/)
+-  📧 Email: aderse246@gmail.com
