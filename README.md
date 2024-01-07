@@ -8,7 +8,8 @@ I thrive on solving complex security challenges and staying up-to-date with the 
 - 🌍 Location: Bangalore, Karnataka, India.
 - 🎓 Graduation Year: 2026
 
-![Tryhackme Badge](https://tryhackme-badges.s3.amazonaws.com/AdarshSR.png?1)
+![Tryhackme Badge](https://github.com/Adarsh-S-R/Adarsh-S-R/assets/132756350/6538fb2f-b5f4-4a4b-86dc-636fbe94df49)
+
 
 
 
