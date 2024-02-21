@@ -8,7 +8,7 @@ I thrive on solving complex security challenges and staying up-to-date with the 
 - 🌍 Location: Bangalore, Karnataka, India.
 - 🎓 Graduation Year: 2026
 
-![Tryhackme Badge](https://github.com/Adarsh-S-R/Adarsh-S-R/assets/132756350/f56ebef0-537f-4b58-acb3-3ebf95fdc5c7)
+![Tryhackme Badge](https://github.com/Adarsh-S-R/Adarsh-S-R/assets/132756350/ab38a38b-a15b-4dcc-ad03-493ebf328222)
 
 
 
@@ -17,13 +17,10 @@ I thrive on solving complex security challenges and staying up-to-date with the 
 ## Achievements, Badges
 
 <!--START_SECTION:badges-->
-- ### Badges
-    [![Google Cybersecurity](https://images.credly.com/size/120x120/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/a94478f7-c91c-47b6-8756-ed7e1b77baf8/public_url "Google Cybersecurity professional Certificate")  ![mrrobot](https://github.com/Adarsh-S-R/Adarsh-S-R/assets/132756350/39d3df8e-25e5-4cbe-88e8-9fb1b18d70b0) ![eternalblue](https://github.com/Adarsh-S-R/Adarsh-S-R/assets/132756350/84a593de-7919-4a96-b1ca-a904c9292feb)
-
-<!--END_SECTION:badges-->
-  
-- ### Google Cybersecurity Professional Certificate
-- ### Introduction to Ethical Hacking by Offenso Academy
+[![Google Cybersecurity](https://images.credly.com/size/120x120/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/a94478f7-c91c-47b6-8756-ed7e1b77baf8/public_url "Google Cybersecurity professional Certificate")
+<!--END_SECTION:badges--> 
+- #### Google Cybersecurity Professional Certificate
+- #### Introduction to Ethical Hacking by Offenso Academy
 
 
 
