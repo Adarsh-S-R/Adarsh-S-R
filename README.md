@@ -13,9 +13,12 @@ Hello! I'm Adarsh SR, a dedicated and passionate cybersecurity student with a st
 
 <!--START_SECTION:badges-->
 [![Google Cybersecurity](https://images.credly.com/size/120x120/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/a94478f7-c91c-47b6-8756-ed7e1b77baf8/public_url "Google Cybersecurity Professional Certificate")
+
 <!--END_SECTION:badges--> 
 
 - Google Cybersecurity Professional Certificate
+- Cisco Introduction to Cybersecurity
+- XM-Cyber Exposure Management Expert
 - Introduction to Ethical Hacking by Offenso Academy
 
 ## Contact
