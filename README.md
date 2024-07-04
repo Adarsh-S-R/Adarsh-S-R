@@ -7,7 +7,8 @@ Hello! I'm Adarsh SR, a dedicated and passionate cybersecurity student with a st
 - 🌍 Location: Bangalore, Karnataka, India.
 - 🎓 Graduation Year: 2026
 
-![Tryhackme Badge](https://github.com/Adarsh-S-R/Adarsh-S-R/assets/132756350/437fb6a2-76ad-4044-ad69-6e57a4b3d584)
+![Tryhackme Badge](https://github.com/Adarsh-S-R/Adarsh-S-R/assets/132756350/f5c1a8a1-fde9-47ad-bd23-1bafdd83f0d0)
+
 
 ## Achievements, Badges
 
