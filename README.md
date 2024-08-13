@@ -2,10 +2,9 @@
 
 Hello! I'm Adarsh SR, a dedicated and passionate cybersecurity student with a strong drive for securing digital landscapes. I thrive on solving complex security challenges and staying up-to-date with the latest threat landscapes.
 
-- 📚 Currently studying: BCA Cybersecurity, Ethical Hacking & Digital Forensics.
-- 🏛️ University: Yenepoya University
 - 🌍 Location: Bangalore, Karnataka, India.
-- 🎓 Graduation Year: 2026
+
+
 
 ![Tryhackme Badge](https://github.com/Adarsh-S-R/Adarsh-S-R/assets/132756350/f5c1a8a1-fde9-47ad-bd23-1bafdd83f0d0)
 
