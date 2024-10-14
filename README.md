@@ -28,7 +28,7 @@ Hello! I'm Adarsh SR, a dedicated and passionate cybersecurity student with a st
 Feel free to reach out to me:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20SR-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-sr/)
-- [![Website](https://img.shields.io/badge/Website-AdarshSR.carrd.co-green?style=flat&logo=website)](https://adarshsr.carrd.co/)
+- [![Website](https://img.shields.io/badge/Website-Adarsh-s-r.github.io-green?style=flat&logo=website)](https://adarsh-s-r.github.io/)
 - [![Email](https://img.shields.io/badge/Email-aderse246%40gmail.com-red?style=flat&logo=gmail)](mailto:aderse246@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adarsh-S-R&color=blue)
