@@ -8,7 +8,8 @@ Hello! I'm Adarsh SR, a dedicated and passionate cybersecurity student with a st
 - 🎓 Graduation Year: 2026
 
 
-![AdarshSR](https://github.com/user-attachments/assets/40a6c97a-16f8-46c4-8090-5e6f60422a13)
+![AdarshSR](https://github.com/user-attachments/assets/53549fd2-d5f1-4a43-9790-5a7701bcc572)
+
 
 ## Achievements, Badges
 
