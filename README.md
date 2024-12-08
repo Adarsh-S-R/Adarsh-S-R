@@ -30,6 +30,7 @@ Feel free to reach out to me:
 
 - [LinkedIn](https://www.linkedin.com/in/adarsh-sr/)
 - [Portfolio](https://adarsh-s-r.github.io/)
+- [Blogs/Writeups](https://adarshsr.gitbook.io)
 - [Email](mailto:aderse246@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adarsh-S-R&color=blue)
