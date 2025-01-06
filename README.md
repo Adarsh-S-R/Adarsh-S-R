@@ -1,3 +1,4 @@
+![HEADER](https://github.com/Adarsh-S-R/Adarsh-S-R/blob/main/image.png)
 # Adarsh SR  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Hello! I'm Adarsh SR, a dedicated and passionate cybersecurity student with a strong drive for securing digital landscapes. I thrive on solving complex security challenges and staying up-to-date with the latest threat landscapes.
